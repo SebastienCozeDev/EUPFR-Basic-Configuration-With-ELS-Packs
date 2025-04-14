@@ -94,9 +94,6 @@
         <Description name="LSSD Ford Expedition" fullName="LSSD 2014 Ford Expedition — EOB" agencyRef="lssd">SO8084</Description>
         <Description name="LSSD FPIU" fullName="LSSD 2013 FPIU — West Vinewood" agencyRef="lssd">SO9651</Description>
         <Description name="LSSD Charger" fullName="LSSD 2014 Charger Unmarked" agencyRef="lssd">unmarked14</Description>
-        <Description name="LSSD Chevy Silverado" fullName="LSSD Chevy Silverado" agencyRef="lssd">warden</Description>
-        <Description name="LSSD Chevy Tahoe" fullName="LSSD 2018 Chevy Tahoe" agencyRef="lssd">warden2</Description>
-        <Description name="LSSD Dodge RAM" fullName="LSSD 2016 Dodge RAM" agencyRef="lssd">warden3</Description>
 
         <!-- Other Vehicles -->
         <Description name="Unmarked Cruiser" fullName="Vapid Police Cruiser" agencyName="Local &amp; Federal Agencies">police4</Description>
@@ -104,7 +101,9 @@
         <Description name="Unmarked Granger" fullName="Declasse Granger" agencyName="Local &amp; Federal Agencies">fbi2</Description>
         
         <!-- SAPR Vehicles -->
-        <Description name="Park Ranger" fullName="Declasse Granger" agencyRef="sapr">pranger</Description>
+	<Description name="SAPR Chevy Silverado" fullName="SAPR Chevy Silverado" agencyRef="lssd">warden</Description>
+        <Description name="SAPR Chevy Tahoe" fullName="SAPR 2018 Chevy Tahoe" agencyRef="lssd">warden2</Description>
+        <Description name="SAPR Dodge RAM" fullName="SAPR 2016 Dodge RAM" agencyRef="lssd">warden3</Description>
         
         <!-- NOOSE Vehicles -->
         <Description name="Police Riot" fullName="Brute Police Stockade" agencyRef="noose">riot</Description>
