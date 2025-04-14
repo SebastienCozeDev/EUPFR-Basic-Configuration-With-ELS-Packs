@@ -1,0 +1,48 @@
+<Outfits>
+	<Outfit>
+		<Name>NYSP Parka</Name>
+		<ScriptName>nysp_coat</ScriptName>
+		<Variations>
+			<Variation>
+				<Name>Parka</Name>
+				<ScriptName>m_base</ScriptName>
+				<Gender>male</Gender>
+				<Components>
+					<Component id="1" drawable="0" texture="0" />
+					<Component id="3" drawable="44" texture="0" />
+					<Component id="4" drawable="33" texture="0" />
+					<Component id="5" drawable="48" texture="0" />
+					<Component id="6" drawable="52" texture="0" />
+					<Component id="7" drawable="0" texture="0" />
+					<Component id="8" drawable="15" texture="1" />
+					<Component id="9" drawable="26" texture="5" />
+					<Component id="10" drawable="0" texture="0" />
+					<Component id="11" drawable="16" texture="0" />						
+				</Components>
+				<Props>	
+					<Prop id="0" drawable="8" texture="2" />
+				</Props>
+			</Variation>
+			<Variation>
+				<Name>Parka</Name>
+				<ScriptName>f_base</ScriptName>
+				<Gender>female</Gender>
+				<Components>
+					<Component id="1" drawable="0" texture="0" />
+					<Component id="3" drawable="49" texture="0" />
+					<Component id="4" drawable="32" texture="0" />
+					<Component id="5" drawable="0" texture="0" />
+					<Component id="6" drawable="53" texture="0" />
+					<Component id="7" drawable="0" texture="0" />
+					<Component id="8" drawable="14" texture="0" />
+					<Component id="9" drawable="28" texture="5" />
+					<Component id="10" drawable="0" texture="0" />
+					<Component id="11" drawable="44" texture="0" />
+				</Components>
+				<Props>	
+					<Prop id="0" drawable="8" texture="2" />
+				</Props>
+			</Variation>
+		</Variations>
+	</Outfit>
+</Outfits>	

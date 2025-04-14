@@ -1,0 +1,24 @@
+<PoliceStations>
+	<Station>
+		<Name>Del Perro Police Station</Name>
+		<Agency>dppd</Agency>
+		<ScriptName>delperroPol</ScriptName>
+		<Position>-1632.241, -1015.48, 13.12532</Position>
+		<Heading>145</Heading>
+		<CamStartOffset>2f, -5f, 1f</CamStartOffset>
+		<CamEndOffset>18f, -25f, 3f</CamEndOffset>
+		<CamPointOffset>2f, 2f, 2f</CamPointOffset>
+	</Station>
+	<Station>
+		<Name>Los Santos Port Police</Name>
+		<Agency>lspp</Agency>
+		<ScriptName>lsPort</ScriptName>
+		<Position>-330.8383, -2779.025, 5.145138</Position>
+		<Heading>270</Heading>
+		<CamEndOffset>-17f, -43f, 3f</CamEndOffset>
+		<CamPointOffset>10f, -5f, 1f</CamPointOffset>
+		<DropOffPosition>-334.9082, -2781.972, 5.000237</DropOffPosition>
+		<GaragePosition>-308.5001, -2764.129, 4.994702; 180</GaragePosition>
+		<GarageSpawnPosition>-318.6482, -2763.934, 5.000236; 88</GarageSpawnPosition>
+	</Station>	
+</PoliceStations>
