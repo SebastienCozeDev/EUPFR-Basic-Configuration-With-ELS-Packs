@@ -256,7 +256,7 @@
 		<Loadout>
 			<Name>Transport Unit</Name>
 			<Vehicles>
-				<Vehicle>sheriff2</Vehicle>
+				<Vehicle>SD9323</Vehicle>
 			</Vehicles>
 			<Peds>
 				<Ped chance="15" outfit="lssd_class_a.m_base">mp_m_freemode_01</Ped> <!-- Class A outfit (Base) -->
@@ -287,7 +287,7 @@
 		<Loadout>
 			<Name>SEB</Name>
 			<Vehicles>
-				<Vehicle>sheriff2</Vehicle>
+				<Vehicle>SD9323</Vehicle>
 			</Vehicles>
 			<Peds>
 				<Ped chance="90" outfit="lssd_swat">mp_m_freemode_01</Ped>
