@@ -184,15 +184,12 @@
 		<Loadout chance="95">
 			<Name>Patrol</Name>
 			<Vehicles>
-				<Vehicle chance="12">SD9323</Vehicle>
-				<Vehicle chance="1">SH3616</Vehicle>
-				<Vehicle chance="12">SH3620</Vehicle>
-				<Vehicle chance="22">SH3649</Vehicle>
-				<Vehicle chance="12">SH4278</Vehicle>
-				<Vehicle chance="12">SO8079</Vehicle>
-				<Vehicle chance="12">warden</Vehicle>
-				<Vehicle chance="12">warden2</Vehicle>
-				<Vehicle chance="5">warden3</Vehicle>
+				<Vehicle chance="20">SD9323</Vehicle>
+				<!--<Vehicle chance="1">SH3616</Vehicle>-->
+				<Vehicle chance="20">SH3620</Vehicle>
+				<Vehicle chance="20">SH3649</Vehicle>
+				<Vehicle chance="20">SH4278</Vehicle>
+				<Vehicle chance="20">SO8079</Vehicle>
 			</Vehicles>
 			<Peds>
 				<!-- 70% chance of male peds -->
