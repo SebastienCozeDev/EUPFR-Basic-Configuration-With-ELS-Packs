@@ -185,7 +185,6 @@
 			<Name>Patrol</Name>
 			<Vehicles>
 				<Vehicle chance="20">SD9323</Vehicle>
-				<!--<Vehicle chance="1">SH3616</Vehicle>-->
 				<Vehicle chance="20">SH3620</Vehicle>
 				<Vehicle chance="20">SH3649</Vehicle>
 				<Vehicle chance="20">SH4278</Vehicle>
@@ -193,12 +192,12 @@
 			</Vehicles>
 			<Peds>
 				<!-- 70% chance of male peds -->
-				<Ped chance="15" outfit="lssd_class_a.m_base">mp_m_freemode_01</Ped> <!-- Class A outfit (Base) -->
-				<Ped chance="5" outfit="lssd_class_a">mp_m_freemode_01</Ped> <!-- Class A outfit (Any variation) -->
-				<Ped chance="20" outfit="lssd_class_b.m_base">mp_m_freemode_01</Ped> <!-- Class B outfit (Base) -->
-				<Ped chance="5" outfit="lssd_class_b">mp_m_freemode_01</Ped> <!-- Class B outfit (Any variation) -->
-				<Ped chance="20" outfit="lssd_class_c.m_base">mp_m_freemode_01</Ped> <!-- Class C outfit (Base) -->
-				<Ped chance="5" outfit="lssd_class_c">mp_m_freemode_01</Ped> <!-- Class C outfit (Any variation) -->
+				<Ped chance="5" outfit="lssd_class_a.m_base">mp_m_freemode_01</Ped> <!-- Class A outfit (Base) -->
+				<Ped chance="0" outfit="lssd_class_a">mp_m_freemode_01</Ped> <!-- Class A outfit (Any variation) -->
+				<Ped chance="5" outfit="lssd_class_b.m_base">mp_m_freemode_01</Ped> <!-- Class B outfit (Base) -->
+				<Ped chance="25" outfit="lssd_class_b">mp_m_freemode_01</Ped> <!-- Class B outfit (Any variation) -->
+				<Ped chance="5" outfit="lssd_class_c.m_base">mp_m_freemode_01</Ped> <!-- Class C outfit (Base) -->
+				<Ped chance="30" outfit="lssd_class_c">mp_m_freemode_01</Ped> <!-- Class C outfit (Any variation) -->
 				
 				<!-- 30% chance of female peds -->
 				<Ped chance="5" outfit="lssd_class_a.f_base">mp_f_freemode_01</Ped> <!-- Class A outfit (Base) -->
