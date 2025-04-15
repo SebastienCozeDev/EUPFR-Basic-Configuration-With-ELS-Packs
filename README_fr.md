@@ -1,5 +1,3 @@
-Voici la traduction en français du README :
-
 # 🔧 Configuration de Base EUPFR avec Packs de Véhicules ELS
 
 ## 📝 Description
@@ -7,6 +5,8 @@ Voici la traduction en français du README :
 EUP propose une configuration de base avec des packs de véhicules. Malheureusement, ces packs ne sont pas compatibles avec ELS. J'ai choisi des packs de véhicules compatibles avec ELS, reproduisant autant que possible ceux offerts par EUP.
 
 Ces fichiers de configuration sont actuellement en cours de création. Vous pouvez contribuer au projet en visitant [son dépôt GitHub](https://github.com/SebastienCozeDev/EUPFR-Basic-Configuration-With-ELS-Packs).
+
+Cette configuration est basée sur [EUPFR Basic Configurations](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/) par [@Alex_Ashfold](https://www.lcpdfr.com/profile/218345-alex_ashfold/).
 
 ## 🛠️ Installation
 
@@ -31,8 +31,6 @@ Vous devez installer :
 - [Emergency Uniforms Pack - Law & Order](https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/), par [@Alex_Ashfold](https://www.lcpdfr.com/profile/218345-alex_ashfold/) & [@PieRGud](https://www.lcpdfr.com/profile/2894-piergud/).
 - [Emergency Uniforms Pack - Serve & Rescue](https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/) par [@Alex_Ashfold](https://www.lcpdfr.com/profile/218345-alex_ashfold/) & [@PieRGud](https://www.lcpdfr.com/profile/2894-piergud/).
 - [EUP Menu](https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/) par [@Alex_Ashfold](https://www.lcpdfr.com/profile/218345-alex_ashfold/) & [@PieRGud](https://www.lcpdfr.com/profile/2894-piergud/).
-
-Cette configuration est basée sur [EUPFR Basic Configurations](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/) par [@Alex_Ashfold](https://www.lcpdfr.com/profile/218345-alex_ashfold/).
 
 ### 🚗 Packs de Véhicules ELS
 
