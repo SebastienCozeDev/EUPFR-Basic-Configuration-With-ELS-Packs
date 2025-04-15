@@ -8,6 +8,14 @@ EUP offers a basic configuration with vehicle packs. Unfortunately, these packs 
 
 These configuration files are currently being created. You can contribute to the project by visiting [its GiHub repository](https://github.com/SebastienCozeDev/EUPFR-Basic-Configuration-With-ELS-Packs).
 
+## 🛠️ Installation
+
+1. Install the requirements. You will find installation instructions for these requirements by following the links.
+2. Download this configuration.
+3. Copy the files in your `Grand Theft Auto V\lspdfr\data` folder.
+
+Need help? Join my [Discord server](https://discord.gg/kymw4hBjBx).
+
 ## 🗒️ List of agencies
 
 - LSSD
